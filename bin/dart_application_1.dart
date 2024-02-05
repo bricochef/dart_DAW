@@ -12,7 +12,7 @@ void main() async {
 
   // Título y fecha de lanzamiento de la película
   print('Título: ${mapPelicula['title']}');
-  print('Fecha lanzamiento: ${mapPelicula['release_date']}');
+  print('Lanzamiento: ${mapPelicula['release_date']}');
 
   // Naves espaciales que aparecen en la película
   print('Naves:');
